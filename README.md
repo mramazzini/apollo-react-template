@@ -2,7 +2,7 @@
 
 ## A copyable MERN stack application 
 
-# Featuring
+### Featuring
 
 - MongoDB
 - JWT authentication
@@ -10,4 +10,4 @@
 - React (react-router-dom)
 - Premade login and register template
 
-# Feel free to copy and use
+### Feel free to copy and use
