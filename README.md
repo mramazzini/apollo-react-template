@@ -11,7 +11,7 @@
 - Premade login and register template
 - Date Format helper util
 
-### Feel free to copy and use
+### Feel free to copy and use!
 
 ## Usage
 
