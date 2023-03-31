@@ -22,4 +22,4 @@
 - GraphQL runs on port 3001, React on port 3000
 
 ## Contact
-# Feel free to contact me at mramazzini123@gmail.com for any issues you may find.
+### Feel free to contact me at mramazzini123@gmail.com for any issues you may find.
